@@ -1,3 +1,1 @@
-function ts() {
-  return "hello world 2234";
-}
+console.log("hello world 2234");
